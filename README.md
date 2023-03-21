@@ -2,6 +2,7 @@
 ## Hi there 👋
 
 - 🔭 I’m currently working on ... 
+- 🇯🇵 I'm Japanese
 - 🌱 I’m currently learning ... SwiftUI, Swift, Firebase
 - 👯 26 years old ... 1996/11/19
 - 🤔 I’m looking for help with ...
