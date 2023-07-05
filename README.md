@@ -1,3 +1,9 @@
+
+<a href="https://discord.gg/EXcpmMXGc7">
+ <img src="https://i.gyazo.com/8c9d3a02c5cbada7c791c52973fedfab.png" />
+</a>
+
+
 # Wai is Haruka Goto
 
 <p align="left" width="100%">
