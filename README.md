@@ -1,9 +1,3 @@
-
-<a href="https://discord.gg/EXcpmMXGc7">
- <img src="https://i.gyazo.com/8c9d3a02c5cbada7c791c52973fedfab.png" />
-</a>
-
-
 # Wai is Haruka Goto
 
 <p align="left" width="100%">
@@ -23,6 +17,17 @@
 ## Follow me
 
 [![twitter](https://img.shields.io/badge/Twitter-kcash510-blue)](https://twitter.com/kcash510)
+
+
+## Join our Discord Community!!
+
+MMMMはエンジニアとゆるく繋がれるを目指したコミュニティです。
+<!-- TODO: サーバーの人数やStatなどを表示したい -->
+
+
+<a href="https://discord.gg/9dQFVXsZDG">
+ <img src="https://i.gyazo.com/8c9d3a02c5cbada7c791c52973fedfab.png" />
+</a>
 
 ## 🎧　Spotify
 
