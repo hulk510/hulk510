@@ -10,9 +10,9 @@
 ## Hi there 👋
 
 - 🇯🇵 I'm Japanese
-- 🌱 I’m currently learning ... SwiftUI, Swift, Firebase
+- 🌱 I’m currently learning ... Nextjs, React, Storybook, msw, jest, Redux
 - 👯 I'm 26 years old ... 1996/11/19 born
-- 🤔 I’m looking for help with ...
+- 🤔 人間到る処青山あり
 
 ## Follow me
 
